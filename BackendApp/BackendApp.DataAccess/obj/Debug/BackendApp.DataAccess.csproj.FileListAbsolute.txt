@@ -1,0 +1,14 @@
+E:\Project_Test\BackendApp\BackendApp.DataAccess\bin\Debug\BackendApp.DataAccess.dll.config
+E:\Project_Test\BackendApp\BackendApp.DataAccess\bin\Debug\BackendApp.DataAccess.dll
+E:\Project_Test\BackendApp\BackendApp.DataAccess\bin\Debug\BackendApp.DataAccess.pdb
+E:\Project_Test\BackendApp\BackendApp.DataAccess\bin\Debug\BackendApp.Core.dll
+E:\Project_Test\BackendApp\BackendApp.DataAccess\bin\Debug\EntityFramework.dll
+E:\Project_Test\BackendApp\BackendApp.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project_Test\BackendApp\BackendApp.DataAccess\bin\Debug\BackendApp.Core.pdb
+E:\Project_Test\BackendApp\BackendApp.DataAccess\bin\Debug\EntityFramework.xml
+E:\Project_Test\BackendApp\BackendApp.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project_Test\BackendApp\BackendApp.DataAccess\obj\Debug\BackendApp.DataAccess.csprojResolveAssemblyReference.cache
+E:\Project_Test\BackendApp\BackendApp.DataAccess\obj\Debug\BackendApp.DataAccess.dll
+E:\Project_Test\BackendApp\BackendApp.DataAccess\obj\Debug\BackendApp.DataAccess.pdb
+E:\Project_Test\BackendApp\BackendApp.DataAccess\obj\Debug\BackendApp.DataAccess.Migrations.intialMigration.resources
+E:\Project_Test\BackendApp\BackendApp.DataAccess\obj\Debug\BackendApp.DataAccess.csproj.GenerateResource.Cache

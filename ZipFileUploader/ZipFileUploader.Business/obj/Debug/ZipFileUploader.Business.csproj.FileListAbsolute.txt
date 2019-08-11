@@ -1,0 +1,12 @@
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\bin\Debug\ZipFileUploader.Business.dll
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\bin\Debug\ZipFileUploader.Business.pdb
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\bin\Debug\DotNetZip.dll
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\bin\Debug\Newtonsoft.Json.dll
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\bin\Debug\ZipFileUploader.Core.dll
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\bin\Debug\ZipFileUploader.Core.pdb
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\bin\Debug\DotNetZip.pdb
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\bin\Debug\DotNetZip.xml
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\bin\Debug\Newtonsoft.Json.xml
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\obj\Debug\ZipFileUploader.Business.csprojResolveAssemblyReference.cache
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\obj\Debug\ZipFileUploader.Business.dll
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Business\obj\Debug\ZipFileUploader.Business.pdb

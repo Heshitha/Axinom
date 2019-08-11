@@ -1,0 +1,4 @@
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Core\bin\Debug\ZipFileUploader.Core.dll
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Core\bin\Debug\ZipFileUploader.Core.pdb
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Core\obj\Debug\ZipFileUploader.Core.dll
+E:\Project_Test\ZipFileUploader\ZipFileUploader.Core\obj\Debug\ZipFileUploader.Core.pdb

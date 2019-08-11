@@ -1,0 +1,5 @@
+E:\Project_Test\BackendApp\BackendApp.Core\bin\Debug\BackendApp.Core.dll
+E:\Project_Test\BackendApp\BackendApp.Core\bin\Debug\BackendApp.Core.pdb
+E:\Project_Test\BackendApp\BackendApp.Core\obj\Debug\BackendApp.Core.csprojResolveAssemblyReference.cache
+E:\Project_Test\BackendApp\BackendApp.Core\obj\Debug\BackendApp.Core.dll
+E:\Project_Test\BackendApp\BackendApp.Core\obj\Debug\BackendApp.Core.pdb

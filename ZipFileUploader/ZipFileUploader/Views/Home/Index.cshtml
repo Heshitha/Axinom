@@ -1,0 +1,56 @@
+﻿@model ZipFileUploader.Models.HomePageViewModel
+@{
+    ViewBag.Title = "Zip Uploader";
+}
+
+
+
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="jumbotron">
+            <h1>Zip Uploader</h1>
+            <p class="lead">This Application lets you upload a Zip File and enter creadintials. Once you've hit upload it'll read the zip, encrypt file hierarchy and submit it to a remote server to save</p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <form runat="server" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label>User name</label>
+                <input type="text" required class="form-control d-block" name="Username" />
+            </div>
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" required class="form-control" name="Password" />
+            </div>
+            <div class="form-group">
+                <label>Select Zip File</label>
+                <input type="file" required accept="*.zip" class="form-control" name="File" />
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+@if (ViewBag.result != null)
+{
+    ZipFileUploader.Core.Domain.APIResultDataModel result = (ZipFileUploader.Core.Domain.APIResultDataModel)ViewBag.result;
+    if (result.ResponseCode == "OK")
+    {
+        <div class="alert alert-success" role="alert">
+            @result.ResponseCode @result.Message
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            @if(result.ResponseCode == "Unauthorized")
+            {
+                <text>Unauthorized Request. Please check your username and password entered.</text>
+            }
+            else
+            {
+                @result.ResponseCode
+            }
+        </div>
+    }
+}

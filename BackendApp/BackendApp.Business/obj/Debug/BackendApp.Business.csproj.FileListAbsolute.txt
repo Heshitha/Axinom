@@ -1,0 +1,11 @@
+E:\Project_Test\BackendApp\BackendApp.Business\bin\Debug\BackendApp.Business.dll
+E:\Project_Test\BackendApp\BackendApp.Business\bin\Debug\BackendApp.Business.pdb
+E:\Project_Test\BackendApp\BackendApp.Business\bin\Debug\BackendApp.Core.dll
+E:\Project_Test\BackendApp\BackendApp.Business\bin\Debug\BackendApp.DataAccess.dll
+E:\Project_Test\BackendApp\BackendApp.Business\bin\Debug\EntityFramework.dll
+E:\Project_Test\BackendApp\BackendApp.Business\bin\Debug\BackendApp.Core.pdb
+E:\Project_Test\BackendApp\BackendApp.Business\bin\Debug\BackendApp.DataAccess.pdb
+E:\Project_Test\BackendApp\BackendApp.Business\bin\Debug\EntityFramework.xml
+E:\Project_Test\BackendApp\BackendApp.Business\obj\Debug\BackendApp.Business.csprojResolveAssemblyReference.cache
+E:\Project_Test\BackendApp\BackendApp.Business\obj\Debug\BackendApp.Business.dll
+E:\Project_Test\BackendApp\BackendApp.Business\obj\Debug\BackendApp.Business.pdb
