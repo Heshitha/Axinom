@@ -2,6 +2,7 @@
  Axinom Test Zip Uploader
  
  Steps to run the application
+ 
 	Open BackendApp solution from visual studio.
 	Install missing Nuget packages.
 	Change the DataContext connection string in web.config in BackendApp project to an empty MSSQL DB created by you.
@@ -18,6 +19,7 @@
 	If you haven't created any user accounts in DB feel free to use user accounts above mentioned.
 	
 This application developed to demo following
+
 	Communication between two applications via HTTP
 	Read a Zip file content as Tree Hierarchy
 	Usage of AES Encription
