@@ -22,6 +22,7 @@ This application developed to demo following
 
 	Communication between two applications via HTTP
 	Read a Zip file content as Tree Hierarchy
+	Usage of Repository pattern
 	Usage of AES Encription
 	Usage of Basic Authentication
 	Usage of Log4Net
